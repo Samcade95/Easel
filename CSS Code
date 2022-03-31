@@ -1,0 +1,4574 @@
+/* Easel Home Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 366px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 1362px;
+height: 280px;
+left: 366px;
+top: 0px;
+
+background: #313131;
+
+
+/* easel: a place for artists */
+
+
+position: absolute;
+width: 773px;
+height: 120px;
+left: 385px;
+top: 85px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+
+color: #FFFFFF;
+
+
+/* Explore */
+
+
+position: absolute;
+width: 178px;
+height: 60px;
+left: 1158px;
+top: 106px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 47px;
+height: 0px;
+left: 1316px;
+top: 98px;
+
+border: 4px solid #FFFFFF;
+box-sizing: border-box;
+transform: rotate(90deg);
+
+
+/* Sign In */
+
+
+position: absolute;
+width: 178px;
+height: 60px;
+left: 1349px;
+top: 106px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 180px;
+height: 93px;
+left: 1510px;
+top: 82px;
+
+background: #E0E0E0;
+border-radius: 13px;
+
+
+/* Join */
+
+
+position: absolute;
+width: 178px;
+height: 60px;
+left: 1560px;
+top: 106px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 1728px;
+height: 864px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
+
+
+
+/* Easel Explore Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Explore */
+
+
+position: absolute;
+width: 202px;
+height: 113px;
+left: 59px;
+top: 83px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1728px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #313131;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 854px;
+height: 66px;
+left: 598px;
+top: 106px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* image 4 */
+
+
+position: absolute;
+width: 28px;
+height: 25px;
+left: 615px;
+top: 128px;
+
+background: url(image.png);
+
+
+/* Try “Mural Painter” */
+
+
+position: absolute;
+width: 439px;
+height: 18px;
+left: 664px;
+top: 130px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+
+color: #C4C4C4;
+
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 137px;
+height: 66px;
+left: 1315px;
+top: 106px;
+
+background: #C4C4C4;
+border-radius: 10px;
+
+
+/* Search */
+
+
+position: absolute;
+width: 178px;
+height: 56px;
+left: 1338px;
+top: 124px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+
+color: #313131;
+
+border: 1px solid #313131;
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 500px;
+height: 550px;
+left: 21px;
+top: 301px;
+
+background: url(image.png);
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 500px;
+height: 722px;
+left: 21px;
+top: 302px;
+
+background: #C4C4C4;
+
+
+/* MURAL PAINTING */
+
+
+position: absolute;
+width: 177px;
+height: 34px;
+left: 32px;
+top: 872px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Face by warholart */
+
+
+position: absolute;
+width: 400px;
+height: 80px;
+left: 41px;
+top: 914px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 36px;
+height: 40px;
+left: 379px;
+top: 940px;
+
+background: url(image.png);
+
+
+/* 500 */
+
+
+position: absolute;
+width: 66px;
+height: 40px;
+left: 435px;
+top: 940px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 503px;
+height: 550px;
+left: 609px;
+top: 300px;
+
+background: url(image.png);
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 500px;
+height: 722px;
+left: 612px;
+top: 302px;
+
+background: #C4C4C4;
+
+
+/* SCULPTURE */
+
+
+position: absolute;
+width: 177px;
+height: 34px;
+left: 623px;
+top: 870px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+/* Ying and Yang by quan_chi */
+
+
+position: absolute;
+width: 400px;
+height: 80px;
+left: 632px;
+top: 912px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* image 8 */
+
+
+position: absolute;
+width: 36px;
+height: 40px;
+left: 976px;
+top: 940px;
+
+background: url(image.png);
+
+
+/* 950 */
+
+
+position: absolute;
+width: 60px;
+height: 40px;
+left: 1032px;
+top: 940px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+/* image 9 */
+
+
+position: absolute;
+width: 500px;
+height: 549px;
+left: 1200px;
+top: 301px;
+
+background: url(image.png);
+
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 500px;
+height: 722px;
+left: 1200px;
+top: 302px;
+
+background: #C4C4C4;
+
+
+/* DIGITAL ART */
+
+
+position: absolute;
+width: 177px;
+height: 34px;
+left: 1211px;
+top: 872px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+/* The Right Touch by hal-9000 */
+
+
+position: absolute;
+width: 400px;
+height: 80px;
+left: 1220px;
+top: 914px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* image 10 */
+
+
+position: absolute;
+width: 36px;
+height: 40px;
+left: 1564px;
+top: 942px;
+
+background: url(image.png);
+
+
+/* 700 */
+
+
+position: absolute;
+width: 60px;
+height: 40px;
+left: 1620px;
+top: 942px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* Easel Join Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Join */
+
+
+position: absolute;
+width: 202px;
+height: 113px;
+left: 84px;
+top: 84px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Need help with joining easel? Check out our chat bot below. */
+
+
+position: absolute;
+width: 653px;
+height: 72px;
+left: 411px;
+top: 97px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 660px;
+height: 741px;
+left: 488px;
+top: 307px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 537px;
+top: 362px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Email: gokeeffe@gmail.com */
+
+
+position: absolute;
+width: 439px;
+height: 18px;
+left: 558px;
+top: 403px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 30 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 537px;
+top: 506px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Username: georgia_ o'keeffe_ */
+
+
+position: absolute;
+width: 439px;
+height: 18px;
+left: 558px;
+top: 541px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 31 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 537px;
+top: 650px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Password: ************ */
+
+
+position: absolute;
+width: 439px;
+height: 18px;
+left: 558px;
+top: 685px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 33 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 537px;
+top: 794px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Confirm Password: ************ */
+
+
+position: absolute;
+width: 439px;
+height: 18px;
+left: 558px;
+top: 830px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 239px;
+height: 93px;
+left: 698px;
+top: 925px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Join */
+
+
+position: absolute;
+width: 174px;
+height: 54px;
+left: 771px;
+top: 952px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 247px;
+height: 216px;
+left: 1461px;
+top: 884px;
+
+background: url(image.png);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1440px;
+top: 920px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1419px;
+top: 896px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1398px;
+top: 872px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 32 */
+
+
+position: absolute;
+width: 223px;
+height: 157px;
+left: 1298px;
+top: 706px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Hi there, I’m easelbot is there anything I can assist you with today? Thank you for using easel :). */
+
+
+position: absolute;
+width: 181px;
+height: 103px;
+left: 1328px;
+top: 725px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* image 11 */
+
+
+position: absolute;
+width: 1728px;
+height: 837px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Sign In Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Sign In */
+
+
+position: absolute;
+width: 202px;
+height: 113px;
+left: 84px;
+top: 84px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Now that you’ve joined easel, go ahead and sign in for the first time. If you have any trouble easelbot can assist you below. */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 97px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 660px;
+height: 656px;
+left: 488px;
+top: 386px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 537px;
+top: 502px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Username: georgia_ o'keeffe_ */
+
+
+position: absolute;
+width: 439px;
+height: 18px;
+left: 557px;
+top: 537px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+/* Rectangle 30 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 537px;
+top: 706px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Password: ************ */
+
+
+position: absolute;
+width: 439px;
+height: 49px;
+left: 558px;
+top: 741px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+/* Rectangle 33 */
+
+
+position: absolute;
+width: 332px;
+height: 55px;
+left: 643px;
+top: 841px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Forgot Password */
+
+
+position: absolute;
+width: 299px;
+height: 59px;
+left: 695px;
+top: 854px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+
+color: #313131;
+
+
+/* Rectangle 34 */
+
+
+position: absolute;
+width: 239px;
+height: 93px;
+left: 695px;
+top: 920px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Sign In */
+
+
+position: absolute;
+width: 174px;
+height: 54px;
+left: 750px;
+top: 944px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 247px;
+height: 216px;
+left: 1461px;
+top: 884px;
+
+background: url(image.png);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1440px;
+top: 920px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1419px;
+top: 896px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1398px;
+top: 872px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 32 */
+
+
+position: absolute;
+width: 223px;
+height: 157px;
+left: 1298px;
+top: 706px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Hi there, go ahead and enter the username and the password you created on the join page. Let me know if you need any help :). */
+
+
+position: absolute;
+width: 181px;
+height: 103px;
+left: 1328px;
+top: 725px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+/* image 12 */
+
+
+position: absolute;
+width: 1728px;
+height: 837px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Profile Setup Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Profile Setup */
+
+
+position: absolute;
+width: 202px;
+height: 113px;
+left: 84px;
+top: 84px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Now that you’re signed in, you can get your profile setup and ready to go. Go ahead and enter your information into the boxes below, and as always easelbot has got your back if you need any help. */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 40px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 392px;
+height: 381px;
+left: 76px;
+top: 397px;
+
+background: url(image.png);
+
+
+/* Line 2 */
+
+
+position: absolute;
+width: 63px;
+height: 0px;
+left: 265px;
+top: 778px;
+
+border: 1px solid #C4C4C4;
+transform: rotate(90deg);
+
+
+/* Rectangle 40 */
+
+
+position: absolute;
+width: 384px;
+height: 113px;
+left: 92px;
+top: 841px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Upload Profile Picture */
+
+
+position: absolute;
+width: 303px;
+height: 63px;
+left: 120px;
+top: 863px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #000000;
+
+
+
+/* Rectangle 34 */
+
+
+position: absolute;
+width: 239px;
+height: 93px;
+left: 145px;
+top: 992px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Confirm */
+
+
+position: absolute;
+width: 174px;
+height: 41px;
+left: 200px;
+top: 1016px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 660px;
+height: 743px;
+left: 572px;
+top: 314px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 624px;
+top: 339px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Name: Georgia O’Keeffe */
+
+
+position: absolute;
+width: 439px;
+height: 49px;
+left: 644px;
+top: 375px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 36 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 624px;
+top: 485px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Location: Santa Fe, New Mexico, USA */
+
+
+position: absolute;
+width: 439px;
+height: 61px;
+left: 644px;
+top: 527px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 37 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 624px;
+top: 631px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Skills: Painting */
+
+
+position: absolute;
+width: 439px;
+height: 49px;
+left: 644px;
+top: 674px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 38 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 624px;
+top: 777px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Specialities: Abstract Art, American Modernism, Modern Art, Modernism, Abstract Expressionism, Precisionism */
+
+
+position: absolute;
+width: 439px;
+height: 49px;
+left: 644px;
+top: 798px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+/* Rectangle 39 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 624px;
+top: 923px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Preferred Work: Freelance/Part-Time */
+
+
+position: absolute;
+width: 439px;
+height: 49px;
+left: 644px;
+top: 959px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 247px;
+height: 216px;
+left: 1461px;
+top: 884px;
+
+background: url(image.png);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1440px;
+top: 920px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1419px;
+top: 896px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1398px;
+top: 872px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 32 */
+
+
+position: absolute;
+width: 223px;
+height: 157px;
+left: 1298px;
+top: 706px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+
+/* Hi there, here you can setup your artist profile and enter your artistic skills/specialities. Let me know if you need any help :). */
+
+
+position: absolute;
+width: 181px;
+height: 103px;
+left: 1328px;
+top: 725px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+/* image 13 */
+
+
+position: absolute;
+width: 1741px;
+height: 837px;
+left: -13px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Profile Job Search Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Job Search */
+
+
+position: absolute;
+width: 202px;
+height: 113px;
+left: 84px;
+top: 84px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Your profile is setup and good to go, now you can start searching for jobs that match based on the information you entered previously. Below the Job Search bar are metatags that help refine your search. */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 40px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 181px;
+height: 185px;
+left: 94px;
+top: 457px;
+
+background: url(image.png);
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 20px;
+height: 0px;
+left: 185px;
+top: 642px;
+
+border: 1px solid #C4C4C4;
+transform: rotate(90deg);
+
+
+/* Rectangle 41 */
+
+
+position: absolute;
+width: 272px;
+height: 73px;
+left: 49px;
+top: 662px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* georgia_ o'keeffe_ */
+
+
+position: absolute;
+width: 262px;
+height: 38px;
+left: 60px;
+top: 680px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 626px;
+height: 66px;
+left: 508px;
+top: 416px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* image 11 */
+
+
+position: absolute;
+width: 28px;
+height: 25px;
+left: 525px;
+top: 436px;
+
+background: url(image.png);
+
+
+/* Freelance/Part-Time */
+
+
+position: absolute;
+width: 439px;
+height: 18px;
+left: 574px;
+top: 440px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 137px;
+height: 66px;
+left: 997px;
+top: 416px;
+
+background: #C4C4C4;
+border-radius: 10px;
+
+
+/* Search */
+
+
+position: absolute;
+width: 178px;
+height: 56px;
+left: 1020px;
+top: 436px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+
+color: #313131;
+
+border: 1px solid #313131;
+
+
+/* Rectangle 42 */
+
+
+position: absolute;
+width: 195.11px;
+height: 396px;
+left: 623px;
+top: 727.11px;
+
+background: #FFFFFF;
+border-radius: 13px;
+transform: rotate(-89.71deg);
+
+
+/* Tags:Freelance, Painting, Part-Time, Modern Art, Abstract Art, American Modernism, Modernism, Abstract Expressionism, Precisionism */
+
+
+position: absolute;
+width: 313px;
+height: 176px;
+left: 650px;
+top: 559px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* image 14 */
+
+
+position: absolute;
+width: 1728px;
+height: 837px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Current Jobs Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* CurrentJobs */
+
+
+position: absolute;
+width: 202px;
+height: 113px;
+left: 84px;
+top: 84px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Here are current jobs that match the search results you entered on the Job Search Page. Current jobs generate based on your geographical location, skillset, and specialities. */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 40px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 181px;
+height: 185px;
+left: 84px;
+top: 323px;
+
+background: url(image.png);
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 20px;
+height: 0px;
+left: 175px;
+top: 508px;
+
+border: 1px solid #C4C4C4;
+transform: rotate(90deg);
+
+
+/* Rectangle 41 */
+
+
+position: absolute;
+width: 272px;
+height: 73px;
+left: 41px;
+top: 528px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* georgia_ o'keeffe_ */
+
+
+position: absolute;
+width: 262px;
+height: 38px;
+left: 60px;
+top: 546px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 43 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 487px;
+top: 378px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 96px;
+height: 86px;
+left: 511px;
+top: 387px;
+
+background: url(image.png);
+
+
+/* Scott M. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 623px;
+top: 390px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Albuquerque NM. */
+
+
+position: absolute;
+width: 144px;
+height: 27px;
+left: 623px;
+top: 410px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* I’m looking for a painter with an eye for modern art to paint my office building, message me if interested. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 623px;
+top: 451px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Line 4 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 487px;
+top: 531px;
+
+border: 1px solid #000000;
+
+
+/* image 11 */
+
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 497px;
+top: 538px;
+
+background: url(image.png);
+
+
+/* Rate: $5,000 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 818px;
+top: 541px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Rectangle 44 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 487px;
+top: 613px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 502px;
+top: 622px;
+
+background: url(image.png);
+
+
+/* Lisa G. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 623px;
+top: 622px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Albuquerque NM. */
+
+
+position: absolute;
+width: 144px;
+height: 27px;
+left: 623px;
+top: 643px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* I’m currently looking for a talented artist who is open to painting murals for a daycare, if interested email me at lisa.g@gmail.com. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 623px;
+top: 683px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Line 5 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 487px;
+top: 766px;
+
+border: 1px solid #000000;
+
+
+/* image 18 */
+
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 497px;
+top: 773px;
+
+background: url(image.png);
+
+
+/* Rate: $3,000 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 818px;
+top: 776px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 45 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 487px;
+top: 848px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 511px;
+top: 857px;
+
+background: url(image.png);
+
+
+/* Monica J. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 623px;
+top: 863px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Santa Fe NM. */
+
+
+position: absolute;
+width: 144px;
+height: 35px;
+left: 623px;
+top: 884px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* I’m in need of a modern and abstract artist who is willing to bring their creative vision to a growing flower shop, send me a message if interested. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 623px;
+top: 924px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Line 6 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 487px;
+top: 1001px;
+
+border: 1px solid #000000;
+
+
+/* image 17 */
+
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 497px;
+top: 1008px;
+
+background: url(image.png);
+
+
+/* Rate: $2,000 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 818px;
+top: 1011px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 46 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 1158px;
+top: 378px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 10 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 1182px;
+top: 387px;
+
+background: url(image.png);
+
+
+/* Sofia R. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 1297px;
+top: 390px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Las Cruces NM. */
+
+
+position: absolute;
+width: 144px;
+height: 35px;
+left: 1297px;
+top: 412px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* Looking for a freelance painter to bring some much needed style to my real estate office, email me at Sofia_R@gmail.com if interested. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 1297px;
+top: 451px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Line 7 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 1158px;
+top: 531px;
+
+border: 1px solid #000000;
+
+
+/* image 19 */
+
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 1168px;
+top: 538px;
+
+background: url(image.png);
+
+
+/* Rate: $6,000 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 1489px;
+top: 541px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 47 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 1158px;
+top: 613px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 11 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 1182px;
+top: 622px;
+
+background: url(image.png);
+
+
+/* John K. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 1297px;
+top: 625px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Roswell NM. */
+
+
+position: absolute;
+width: 144px;
+height: 35px;
+left: 1297px;
+top: 646px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* In need of a talented american modernist who has a knack for detailed murals for my bike shop, message me if interested. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 1297px;
+top: 686px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Line 8 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 1158px;
+top: 766px;
+
+border: 1px solid #000000;
+
+
+/* image 20 */
+
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 1168px;
+top: 773px;
+
+background: url(image.png);
+
+
+/* Rate: $4,000 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 1489px;
+top: 776px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 48 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 1158px;
+top: 848px;
+
+background: #FFFFFF;
+
+/* Ellipse 12 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 1182px;
+top: 857px;
+
+background: url(image.png);
+
+
+/* Javier D. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 1293px;
+top: 858px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Rio Rancho NM. */
+
+
+position: absolute;
+width: 144px;
+height: 35px;
+left: 1293px;
+top: 880px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+/* Lookng for a precise, creative, and unique modern artist to paint my barbershop, if this sounds like you please email me at javier-barber@gmail.com. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 1293px;
+top: 919px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Line 9 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 1158px;
+top: 1001px;
+
+border: 1px solid #000000;
+
+
+/* image 21 */
+
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 1168px;
+top: 1008px;
+
+background: url(image.png);
+
+
+/* Rate: $1,500 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 1489px;
+top: 1011px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* image 15 */
+
+
+position: absolute;
+width: 1728px;
+height: 957px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Saved Jobs Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Saved Jobs */
+
+
+position: absolute;
+width: 202px;
+height: 113px;
+left: 84px;
+top: 84px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Here are your saved jobs that you liked from the Current Jobs Page. Saved jobs take priority over non saved jobs in easel and will always appear first when you sign in. */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 40px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 181px;
+height: 185px;
+left: 84px;
+top: 323px;
+
+background: url(image.png);
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 20px;
+height: 0px;
+left: 175px;
+top: 508px;
+
+border: 1px solid #C4C4C4;
+transform: rotate(90deg);
+
+
+/* Rectangle 41 */
+
+
+position: absolute;
+width: 272px;
+height: 73px;
+left: 41px;
+top: 528px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* georgia_ o'keeffe_ */
+
+
+position: absolute;
+width: 262px;
+height: 38px;
+left: 60px;
+top: 546px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+/* Rectangle 46 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 447px;
+top: 376px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 10 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 471px;
+top: 385px;
+
+background: url(image.png);
+
+
+/* Sofia R. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 586px;
+top: 388px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Las Cruces NM. */
+
+
+position: absolute;
+width: 144px;
+height: 48px;
+left: 586px;
+top: 409px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* Looking for a freelance painter to bring some much needed style to my real estate office, email me at Sofia_R@gmail.com if interested. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 586px;
+top: 449px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Line 7 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 447px;
+top: 529px;
+
+border: 1px solid #000000;
+
+
+
+/* image 23 */
+
+
+position: absolute;
+width: 25.97px;
+height: 27px;
+left: 457px;
+top: 536px;
+
+background: url(image.png);
+
+
+/* Rate: $6,000 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 778px;
+top: 538px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Rectangle 34 */
+
+
+position: absolute;
+width: 239px;
+height: 93px;
+left: 977px;
+top: 414px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Apply */
+
+
+position: absolute;
+width: 174px;
+height: 54px;
+left: 1030px;
+top: 443px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+
+/* Rectangle 47 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 447px;
+top: 611px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 11 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 471px;
+top: 620px;
+
+background: url(image.png);
+
+
+/* John K. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 586px;
+top: 626px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Roswell NM. */
+
+
+position: absolute;
+width: 144px;
+height: 35px;
+left: 586px;
+top: 649px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+/* In need of a talented american modernist who has a knack for detailed murals for my bike shop, message me if interested. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 586px;
+top: 689px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Line 8 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 447px;
+top: 764px;
+
+border: 1px solid #000000;
+
+
+/* image 25 */
+
+
+position: absolute;
+width: 25.97px;
+height: 27px;
+left: 457px;
+top: 771px;
+
+background: url(image.png);
+
+
+/* Rate: $4,000 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 778px;
+top: 773px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 48 */
+
+
+position: absolute;
+width: 239px;
+height: 93px;
+left: 977px;
+top: 642px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Apply */
+
+
+position: absolute;
+width: 174px;
+height: 54px;
+left: 1030px;
+top: 671px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+/* Rectangle 45 */
+
+
+position: absolute;
+width: 449px;
+height: 189px;
+left: 447px;
+top: 841px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 471px;
+top: 850px;
+
+background: url(image.png);
+
+
+/* Monica J. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 586px;
+top: 862px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Santa Fe NM. */
+
+
+position: absolute;
+width: 144px;
+height: 30px;
+left: 586px;
+top: 884px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+/* I’m in need of a modern and abstract artist who is willing to bring their creative vision to a growing flower shop, send me a message if interested. */
+
+
+position: absolute;
+width: 305px;
+height: 34px;
+left: 586px;
+top: 924px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Line 6 */
+
+
+position: absolute;
+width: 449px;
+height: 0px;
+left: 447px;
+top: 994px;
+
+border: 1px solid #000000;
+
+
+/* image 27 */
+
+
+position: absolute;
+width: 25.97px;
+height: 27px;
+left: 457px;
+top: 1001px;
+
+background: url(image.png);
+
+
+/* Rate: $2,000 */
+
+
+position: absolute;
+width: 153px;
+height: 19px;
+left: 778px;
+top: 1005px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Rectangle 49 */
+
+
+position: absolute;
+width: 239px;
+height: 93px;
+left: 977px;
+top: 870px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Apply */
+
+
+position: absolute;
+width: 174px;
+height: 54px;
+left: 1030px;
+top: 899px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+/* image 22 */
+
+
+position: absolute;
+width: 1728px;
+height: 837px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Apply for Jobs Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Apply for Jobs */
+
+
+position: absolute;
+width: 224px;
+height: 113px;
+left: 62px;
+top: 84px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Now that you’ve selected a job to apply for from the Saved Jobs Page, you can send either an email or direct message depending on the preference of the job poster. From here the job poster will respond. */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 40px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 181px;
+height: 185px;
+left: 84px;
+top: 323px;
+
+background: url(image.png);
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 20px;
+height: 0px;
+left: 175px;
+top: 508px;
+
+border: 1px solid #C4C4C4;
+transform: rotate(90deg);
+
+
+/* Rectangle 41 */
+
+
+position: absolute;
+width: 272px;
+height: 73px;
+left: 41px;
+top: 528px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* georgia_ o'keeffe_ */
+
+
+position: absolute;
+width: 262px;
+height: 38px;
+left: 60px;
+top: 546px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 46 */
+
+
+position: absolute;
+width: 680px;
+height: 522px;
+left: 552px;
+top: 376px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 10 */
+
+
+position: absolute;
+width: 99px;
+height: 86px;
+left: 582px;
+top: 385px;
+
+background: url(image.png);
+
+
+/* Sofia R. */
+
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 717px;
+top: 385px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Las Cruces NM. */
+
+
+position: absolute;
+width: 144px;
+height: 48px;
+left: 717px;
+top: 408px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+/* Looking for a freelance painter to bring some much needed style to my real estate office, email me at Sofia_R@gmail.com if interested. */
+
+
+position: absolute;
+width: 305px;
+height: 79px;
+left: 717px;
+top: 449px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 50 */
+
+
+position: absolute;
+width: 309px;
+height: 96px;
+left: 738px;
+top: 567px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Email */
+
+
+position: absolute;
+width: 174px;
+height: 54px;
+left: 831px;
+top: 599px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+/* Rectangle 51 */
+
+
+position: absolute;
+width: 309px;
+height: 96px;
+left: 738px;
+top: 719px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Message */
+
+
+position: absolute;
+width: 174px;
+height: 54px;
+left: 831px;
+top: 751px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+
+/* image 28 */
+
+
+position: absolute;
+width: 1734px;
+height: 837px;
+left: -6px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Email Message Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Email */
+
+
+position: absolute;
+width: 224px;
+height: 113px;
+left: 62px;
+top: 84px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* This job poster prefers an email message from interested applicants, go ahead and enter your email information below and send them an email. */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 40px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 181px;
+height: 185px;
+left: 84px;
+top: 323px;
+
+background: url(image.png);
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 20px;
+height: 0px;
+left: 175px;
+top: 508px;
+
+border: 1px solid #C4C4C4;
+transform: rotate(90deg);
+
+
+/* Rectangle 41 */
+
+
+position: absolute;
+width: 272px;
+height: 73px;
+left: 41px;
+top: 528px;
+
+background: #C4C4C4;
+border-radius: 13px;
+
+
+/* georgia_ o'keeffe_ */
+
+
+position: absolute;
+width: 262px;
+height: 38px;
+left: 60px;
+top: 546px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+/* Rectangle 52 */
+
+
+position: absolute;
+width: 989px;
+height: 628px;
+left: 474px;
+top: 385px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+
+
+/* Rectangle 53 */
+
+
+position: absolute;
+width: 989px;
+height: 85px;
+left: 474px;
+top: 385px;
+
+background: #313131;
+border-radius: 6px;
+
+
+/* New Message */
+
+
+position: absolute;
+width: 254px;
+height: 46px;
+left: 509px;
+top: 412px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+
+/* To: Sofia_R@gmail.com */
+
+
+position: absolute;
+width: 350px;
+height: 25px;
+left: 514px;
+top: 493px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Line 10 */
+
+
+position: absolute;
+width: 920px;
+height: 0px;
+left: 511px;
+top: 528.5px;
+
+border: 1px solid #E5E5E5;
+
+
+/* Subject: Freelance Painter Job */
+
+
+position: absolute;
+width: 350px;
+height: 25px;
+left: 514px;
+top: 546px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Line 11 */
+
+
+position: absolute;
+width: 921px;
+height: 0px;
+left: 510px;
+top: 581px;
+
+border: 1px solid #E5E5E5;
+
+
+/* Hello, my name is Georgia O’Keeffe and I am definitely interested in this opportunity. I am a skilled painter and specialize in modern art and abstract art as well as many other styles. Please get back to me as soon as you can with your decision and have a great rest of your day. Sincerely, Georgia O’Keeffe */
+
+
+position: absolute;
+width: 735px;
+height: 208px;
+left: 523px;
+top: 626px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 54 */
+
+
+position: absolute;
+width: 125px;
+height: 50px;
+left: 509px;
+top: 898px;
+
+background: #376FFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+
+
+/* Send */
+
+
+position: absolute;
+width: 91px;
+height: 19px;
+left: 535px;
+top: 913px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+
+/* Line 12 */
+
+
+position: absolute;
+width: 50px;
+height: 0px;
+left: 607px;
+top: 948px;
+
+border: 1px solid #000000;
+transform: rotate(-90deg);
+
+
+/* image 30 */
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 609px;
+top: 912px;
+
+background: url(image.png);
+
+
+/* image 29 */
+
+
+position: absolute;
+width: 1728px;
+height: 837px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Forgot Password Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Forgot Password */
+
+
+position: absolute;
+width: 260px;
+height: 113px;
+left: 41px;
+top: 72px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Here you can reset your password if you forgot your previous one. Everyone’s favorite artbot is here to guide you through this process if you need help. */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 40px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 55 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 509px;
+top: 382px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* New Password:************ */
+
+
+position: absolute;
+width: 439px;
+height: 18px;
+left: 543px;
+top: 420px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 56 */
+
+
+position: absolute;
+width: 555px;
+height: 106px;
+left: 509px;
+top: 578px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Confirm New Password:************ */
+
+
+position: absolute;
+width: 451px;
+height: 18px;
+left: 543px;
+top: 614px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+/* Rectangle 35 */
+
+
+position: absolute;
+width: 239px;
+height: 93px;
+left: 667px;
+top: 884px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Confirm */
+
+
+position: absolute;
+width: 174px;
+height: 41px;
+left: 722px;
+top: 908px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 247px;
+height: 216px;
+left: 1461px;
+top: 884px;
+
+background: url(image.png);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1449px;
+top: 912px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 9 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1425px;
+top: 888px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ellipse 10 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1401px;
+top: 864px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 41 */
+
+
+position: absolute;
+width: 223px;
+height: 157px;
+left: 1301px;
+top: 699px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Hi there, go ahead and enter your new password, after that make sure to confirm it. Let me know if you need any help :). */
+
+
+position: absolute;
+width: 181px;
+height: 103px;
+left: 1334px;
+top: 718px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+/* image 31 */
+
+
+position: absolute;
+width: 1728px;
+height: 837px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
+
+
+/* Easel Leave a Review Page */
+
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 322px;
+height: 280px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Leave a Review */
+
+
+position: absolute;
+width: 260px;
+height: 113px;
+left: 41px;
+top: 72px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #313131;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 1741px;
+height: 280px;
+left: -13px;
+top: 0px;
+
+background: #313131;
+
+
+/* Thank you for using easel today, if you enjoyed your experience feel free to leave a review below. Keep on creating :). */
+
+
+position: absolute;
+width: 653px;
+height: 176px;
+left: 411px;
+top: 40px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 57 */
+
+
+position: absolute;
+width: 989px;
+height: 585px;
+left: 410px;
+top: 365px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+
+/* Rectangle 55 */
+
+
+position: absolute;
+width: 989px;
+height: 85px;
+left: 410px;
+top: 365px;
+
+background: #313131;
+border-radius: 6px;
+
+
+/* Leave a Review */
+
+
+position: absolute;
+width: 571px;
+height: 57px;
+left: 440px;
+top: 393px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 58 */
+
+
+position: absolute;
+width: 511px;
+height: 83px;
+left: 629px;
+top: 469px;
+
+background: #E5E5E5;
+border-radius: 8px;
+
+
+/* Tell us about your experience today using easel? */
+
+
+position: absolute;
+width: 510px;
+height: 130px;
+left: 657px;
+top: 491px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Rectangle 59 */
+
+
+position: absolute;
+width: 747px;
+height: 272px;
+left: 531px;
+top: 604px;
+
+background: #E5E5E5;
+border-radius: 8px;
+
+
+/* I had a great experience today using easel. I was able to find freelance work and explore other artists and creative types from around the world all from the comfort of my MacBook. I definitely would recommend easel to any artist or creative type looking for work. -Georgia */
+
+
+position: absolute;
+width: 663px;
+height: 182px;
+left: 576px;
+top: 628px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Rating: */
+
+
+position: absolute;
+width: 138px;
+height: 44px;
+left: 550px;
+top: 820px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Star 2 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 634px;
+top: 810px;
+
+background: #000000;
+
+
+/* Star 5 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 680px;
+top: 810px;
+
+background: #000000;
+
+
+/* Star 1 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 726px;
+top: 810px;
+
+background: #000000;
+
+
+/* Star 4 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 772px;
+top: 810px;
+
+background: #000000;
+
+
+/* Star 3 */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 818px;
+top: 810px;
+
+background: #000000;
+
+
+/* Rectangle 57 */
+
+
+position: absolute;
+width: 239px;
+height: 93px;
+left: 765px;
+top: 991px;
+
+background: #E5E5E5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+
+/* Sign Out */
+
+
+position: absolute;
+width: 174px;
+height: 41px;
+left: 812px;
+top: 1017px;
+
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 36px;
+
+color: #313131;
+
+
+
+/* image 32 */
+
+
+position: absolute;
+width: 1728px;
+height: 865px;
+left: 0px;
+top: 280px;
+
+background: url(image.png);
